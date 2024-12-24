@@ -7,6 +7,8 @@
 
 -  I'm getting better at JavaScript, C/C++, Lua, and Bash
 
+- i lost access to my old github account  
+
 - reach me **codecryptpythonic@gmail.com**
 
 - Fun fact **Im not even funny**
