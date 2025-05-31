@@ -11,7 +11,7 @@
 
 - reach me **codecryptpythonic@gmail.com**
 
-- Fun fact **Im not even funny**
+- Fun fact **idk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
