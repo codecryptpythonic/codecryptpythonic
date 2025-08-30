@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecryptpythonic&label=Profile%20views&color=0e75b6&style=flat" alt="codecryptpythonic" /> </p>
 
--  I'm getting better at JavaScript, C/C++, Lua, and Bash
+-  I'm getting better at JavaScript, C/C++, Lua, and Bash (I SUCK)
 
 - i lost access to my old github account  
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/codecryptpythonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codecryptpythonic" height="30" width="40" /></a>
   <a href="https://instagram.com/codecryptpythonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codecryptpythonic" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/0x1337_h4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0x1337_h4x" height="30" width="40" /></a>
 </p>
