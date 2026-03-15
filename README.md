@@ -1,21 +1,17 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7E5Nhv0abazbgFwgfm3iT50-FVRCHGuvaHC8A8sLsChFgb5-QqmbntDhU&s=10)
-<h1 align="center">HELLOOOOOOOOOOOO</h1>
-<h3 align="center">Ethical hacker and pentester from Bangladesh, passionate about Python and JavaScript</h3>
+<h1 align="center">HI</h1>
+<h3 align="center">noob learner</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEkTpi7IIS0WQlE511ts6KhBLhUpyICccVg&s" alt="Coding" width="200" style="float: right; margin: 75px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecryptpythonic&label=Profile%20views&color=0e75b6&style=flat" alt="codecryptpythonic" /> </p>
 
--  I'm getting better at JavaScript, C/C++, Lua, and Bash (I SUCK)
-
-- i lost access to my old github account  
-
+-  web pentester for fun
 - reach me **codecryptpythonic@gmail.com**
-
-- Fun fact **idk**
+- im trash
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/codecryptpythonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codecryptpythonic" height="30" width="40" /></a>
+  <a href="https://instagram.com/codecryptpythonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codiecodiecodies" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/0x1337_h4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0x1337_h4x" height="30" width="40" /></a>
 </p>
 
